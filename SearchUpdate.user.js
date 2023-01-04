@@ -3,7 +3,7 @@
 // @namespace    http//tampermonkey.net/
 // @version      0.0.2
 // @description  Activate button search statriweb for search sheet for number and year
-// @author       9j3thr0 (giacomo.dallape)
+// @author       9j4ck0 (giacomo.dallape)
 // @match        https://statri-web.dipvvf.it/SheetList*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
